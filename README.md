@@ -9,5 +9,5 @@ La problématique abordée lors de cette 9ème édition est la transition numér
 
 À travers cet évènement, les participants ont eu un aperçu de comment différents secteurs évoluent et ont évolué grâce à l’exploitation de la Data, ils ont eu également l’occasion de pouvoir observer directement les possibilités offertes par le Machine Learning.
 
-**Vous trouverez ici le code et le lien du site web/mobile développé pour cette événement.**
+**Vous trouverez ici le code et le lien du site web/mobile développé pour cet événement.**
 [https://dataday2024-lyon2.github.io](https://dataday2024-lyon2.github.io)
